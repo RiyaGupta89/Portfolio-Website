@@ -11,6 +11,8 @@
   ],
   "author": "Riya Gupta",
   "license": "ISC",
+  "gcp-build": "razzle build",
+  "start": "node build/server.js",
   "dependencies": {
     "express": "^4.17.1"
   }
